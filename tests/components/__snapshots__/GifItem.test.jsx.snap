@@ -6,11 +6,11 @@ exports[`Tests in <GifItem /> should make match with the snapshot 1`] = `
     class="card"
   >
     <img
-      alt="title"
-      src="url"
+      alt="Test-Title"
+      src="https://testpage.com/test.jpg"
     />
     <p>
-      title
+      Test-Title
     </p>
   </div>
 </div>
