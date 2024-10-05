@@ -17,7 +17,8 @@ const onAddCategory = (newCategory) => {
     
     <AddCategory 
         onNewCategory = { ( value ) => onAddCategory(value) }
-    />    
+    /> 
+    
         { 
             categories.map((category )=> (
                     <GifGrid 
